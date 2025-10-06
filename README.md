@@ -1,4 +1,4 @@
-# machinelearning
+# Artificialintellience
 ONLY ONE CODE AND LEARN ALL SUBJECTS IN ENGINEERING:                                                                                                                *We are designing a tool based on students’ marks distribution that will help them understand and track their progress in key areas throughout their four years of B.Tech life on campus.*
 
 The tool will focus on multiple domains of learning and skill development, including:
